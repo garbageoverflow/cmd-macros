@@ -1,0 +1,18 @@
+explorer=start .
+google=start https://www.google.com
+duckgo=start https://www.duckduckgo.com
+ecosia=start https://www.ecosia.com
+paint=start %windir%\system32\mspaint.exe
+gimp=start C:\Program Files\GIMP 2\bin\gimp-2.10.exe
+note=start notepad.exe
+superuser=start https://www.superuser.com
+atom=start C:\Users\User\AppData\Local\atom\atom.exe
+github=start https://www.github.com
+gitlab=start https://ww.gitlab.com
+stackoverflow=start stackoverflow.com
+ping_google=ping www.google.com
+
+ls=dir
+clear=cls
+pwd=cd
+ifconfig=ipconfig
